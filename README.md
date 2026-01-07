@@ -2,7 +2,7 @@
 
 This repository contains my CV.
 
-[Download CV (PDF)](./Tom_Thorsen_CV.pdf)
+[Download CV (PDF)](./Tom_Thorsen_cv.pdf)
 LinkedIn: https://linkedin.com/in/tomthorsen
 GitHub: https://github.com/twtct80
 
